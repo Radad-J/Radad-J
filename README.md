@@ -3,7 +3,7 @@
 This is the place where i learn new stuff and break things 😂
 
 - 🔭 I’m currently working on Employees project !
-- 🌱 I’m currently learning cakePhp and some other frameworks
+- 🌱 I’m currently learning Laravel, Angular, Spring, VueJS and React
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about anything you want !
 - 😄 Pronouns: She/Her
