@@ -2,8 +2,7 @@
 
 This is the place where i learn new stuff and break things 😂
 
-- 🌱 I’m currently learning Laravel, Angular, Spring, VueJS and React
-- 🤔 I’m looking for help with Python
+- 🌱 I’m currently learning Node.js and Python
 - 💬 Ask me about anything you want !
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a textbook INFJ personality type, the rarest type.
