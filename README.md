@@ -2,7 +2,7 @@
 
 This is the place where i learn new stuff and break things 😂
 
-- 🌱 I’m currently learning Node.js and Python
+- 🌱 I’m currently learning React.js and Angular
 - 💬 Ask me about anything you want !
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a textbook INFJ personality type, the rarest type.
